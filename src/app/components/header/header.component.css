@@ -1,0 +1,12 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+}
+
+
+.menu {
+  height: 15px;
+  background: #FE0000;
+}
